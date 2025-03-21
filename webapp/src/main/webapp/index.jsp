@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Tomarrow Starting Crypto classes from tomorrow onwards.. Brushup your self **** </h1>   
+         <h1> **** Finally You Got JOB Congrats **** </h1>   
 	 
 
     </section>    
