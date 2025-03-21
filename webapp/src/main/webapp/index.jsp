@@ -89,17 +89,17 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart shopping website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Rishi Personal website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#contact">Contact-KondalRao</a></li>
+                <li><a href="#contact">Contact-Rishi</a></li>
             </ul>
 		
         </header>
-         <h1> **** Today is Holiday **** </h1>   
+         <h1> **** Today is Full Gullimpudu Day with T** **** </h1>   
 	 
 
     </section>    
