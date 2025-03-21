@@ -95,11 +95,11 @@ h1{
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#contact">Contact-KondalRao</a></li>
             </ul>
 		
         </header>
-         <h1> **** Finally You Got JOB Congrats **** </h1>   
+         <h1> **** Today is Holiday **** </h1>   
 	 
 
     </section>    
