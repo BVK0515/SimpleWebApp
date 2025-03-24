@@ -80,7 +80,7 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: #ffff;
 }
 </style>
 </head>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** This Site Under Maintanance Come Back on With in 30mins **** </h1>   
+         <h1> **** Welcome To Jenkins Offical Website **** </h1>   
 	 
 
     </section>    
